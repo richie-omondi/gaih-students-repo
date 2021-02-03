@@ -1,7 +1,7 @@
 # GAIH Student Repo
 ![](img/logo.png)
 
-**Course Date:** 07.02.2020  
+**Course Date:** 01.02.2020 - 07.02.2020  
 **Name:** Richard 
 **Surname:** Orido 
 **Email:** richieorido@gmail.com 
