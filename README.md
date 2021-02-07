@@ -7,14 +7,8 @@
 **Email:** richieorido@gmail.com 
 
 ## Project Name
-Description of your project.
+Company Management System
 
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
 ---
 
 ### Certification
